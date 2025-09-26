@@ -516,6 +516,13 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/liuxiaofengone">
+                    <img src="https://avatars.githubusercontent.com/u/64954354?v=4" width="90;" alt="liuxiaofengone"/>
+                    <br />
+                    <sub><b>liuxiaofengone</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/piaoyidage">
                     <img src="https://avatars.githubusercontent.com/u/5135405?v=4" width="90;" alt="piaoyidage"/>
                     <br />
